@@ -25,9 +25,9 @@ On line 5, you should see a statement that reads
 ```
 world = {}
 ```
-This is initializing a variable called world that is being set up as an empty dictionary. Select the {} and replace it with the contents of the browser window you copied previously. If you are successful, main.py should now be around 230 lines long instead of 15.
+This statement initializes a variable (called world) as an empty dictionary. Select the {} and replace it with the contents of the browser window you copied previously. If you are successful, main.py should now be around 230 lines long instead of 15. *Be careful to only select the {}. When you are done, line 5 should still start world = {*.
 
-Otherwise, main.py is quite simple. It will print out the name of the world, and then go through each of the passages and print out their relevant contents. Run main.py by pressing the green play button in the top right corner of the window. 
+The rest of main.py is quite simple. It will print out the name of the world, and then go through each of the passages and print out their relevant contents. Confirm you haven't made any mistakes by running main.py; press the green play button in the top right corner of the VS Code window. 
 
 In GitHub Desktop, you should now see main.py highlighted. Add a Summary message at the bottom of that panel, and push the "Commit to master" button. On the right side of the top, black panel, you should see a button labeled "Push origin". Press that now.
 
