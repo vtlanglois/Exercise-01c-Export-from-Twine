@@ -1,5 +1,5 @@
 # Exercise-01c-Export-from-Twine
-Exercise for MSCH-C220, 30 August 2021
+Exercise for MSCH-C220, 31 August 2021
 
 This exercise will set up Twine to be able to export a version of an interactive fiction game that could be used in a Python game engine.
 
@@ -40,10 +40,9 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01c-Export-from-Twine
-
 Exercise for MSCH-C220, 31 August 2021
 
-A JSON file, describing an interactive fiction game, exported from Twine
+A Python dictionary, describing an interactive fiction game, exported from Twine
 
 ## Implementation
 Created using Twine 2 and exported with [Harlowe 3 to JSON 0.0.6 by Jonathan Schoonhoven](https://github.com/jtschoonhoven/twine-to-json)
